@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jesuisBogdan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on javascript 
-- 📫 How to reach me Abuziloae.bogdan@gmail.com
+- 💞️ I’m looking to collaborate on javascript, c# or any object oriented language
+- 📫 How to reach me abuziloae.bogdan@gmail.com
 
 <!---
 jesuisBogdan/jesuisBogdan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
